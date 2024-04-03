@@ -1,0 +1,1 @@
+Este é um programa que facilita a busca em um arquivo que contém aproximadamente 700 mil resgistros. Utilizando do método de MergeSort, ele reduz a busca, que antes era feita de maneira sequencial, para no máximo 20 tentativas.
